@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "vvvvm",
+  "description": "vvvvm",
   "keywords": [
-    "vmess or vles"
+    "vvvvm"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/sancy666/ggggdddd",
+  "repository": "https://github.com/sancy666/ggggdddd",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
